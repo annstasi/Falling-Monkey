@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>platform.png</file>
+        <file>monkey_armsup.png</file>
+        <file>bg.png</file>
+        <file>banana.png</file>
+        <file>plenty.png</file>
+        <file>EndPic.png</file>
+        <file>snake.png</file>
+    </qresource>
+</RCC>
